@@ -1,4 +1,5 @@
 import {
+    Android1,
     payroll,
     todo,
     safar,
@@ -19,6 +20,8 @@ import {
     Raw,
     Payroll,
     todoi,
+    Ananta,
+    Android,
   } from "../assets";
   
   export const navLinks = [
@@ -29,7 +32,7 @@ import {
     {
       id: "work",
       title: "Work",
-    },
+    },  
     {
       id: "contact",
       title: "Contact",
@@ -64,11 +67,7 @@ import {
       name: "CSS 3",
       icon: css,
     },
-    {
-      name: "JavaScript",
-      icon: javascript,
-    },
-    
+  
     {
       name: "React JS",
       icon: reactjs,
@@ -98,6 +97,8 @@ import {
       name: "figma",
       icon: figma,
     },
+    {name:"Android",
+    icon: Android1,},
     
   ];
   
@@ -119,7 +120,7 @@ import {
       title: "Safar Website",
       company_name: "Tesla",
       icon: Raw,
-      iconBg: "#383E56",
+      iconBg: "#ffffff",
       date: "Aug 2021 - Sep 2021",
       points: [
         "Built a static single page website for our in-house internship at GSFC University, teams were mapped together to build a working website from scratch using HTML, CSS and JavaScript.",
@@ -132,7 +133,7 @@ import {
       title: "Payroll Management System",
       company_name: "Shopify",
       icon: Payroll,
-      iconBg: "#383E56",
+      iconBg: "#ffffff",
       date: "May 2023 - Jun 2023",
       points: [
         "Created the user interface using HTML and  CSS to ensure a clean and intuitive design.",
@@ -146,11 +147,42 @@ import {
       company_name: "Meta",
       icon: todoi,
       iconBg: "#E6DEDD",
-      date: "Feb 2023 - march 2023",
+      date: "Feb 2023 - March 2023",
       points: [
         "Developed with a user-centric approach, ensuring a seamless and intuitive task management experience.",
         "Powered by React, JavaScript, CSS which makes the app look and feel modern.",
         "It can also Insert, Update and delete task accordingly.",
+      ],
+    },
+    {
+      title: "University Fest Treasurer",
+      company_name: "Ananta-24",
+      icon: Ananta,
+      iconBg: "#000000",
+      date: "Jan 2024 - March 2024",
+      points: [
+        "Treasurer at ANANTA-24 university fest, overseeing all financial transactions and budget management.",
+        "Successfully organized over 40+ events, coordinating with vendors, sponsors, and participants.",
+        "Managed a crowd of 1200+ attendees, ensuring smooth registration and crowd control.",
+        "Handled cash flow, Financial reporting, ensuring transparency and accountability throughtout the event.",
+       
+      ],
+    },
+    {
+      title: "Android App Development",
+      company_name: "HealthPlex",
+      icon: Android,
+      iconBg: "#ffffff",
+      date: "April 2024 - May 2024",
+      points: [
+        "Developed an Android application named HealthPlex for GSFC University, utilizing Java and Firebase technologies to provide a comprehensive health management solution.",
+        "Integrated a GPS-based attendance system within the app, enabling effortless tracking of attendance for fitness classes and events.",
+        "Implemented a machine learning model as a future enhancement, capable of accurately detecting the angle of the elbow during workout sessions.",
+        "Leveraged the ML model to segment images of the elbow if the angle falls below a predefined threshold, addressing the challenge of absence of gym trainers at the location.",
+        "The project showcases my Android app development skills, Firebase integration, and machine learning expertise."
+        
+
+        
       ],
     },
   ];

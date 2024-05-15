@@ -28,8 +28,14 @@ import Snake from "./company/Snake.png";
 import safar from "./safar.png";
 import todo from "./todo.png";
 import payroll from "./payroll.png";
+import Ananta from "./company/Ananta.png"
+import Android from "./company/Android.jpeg";
+import Android1 from "./company/Android.png";
 
 export {
+  Android1,
+  Android,
+  Ananta,
   todoi,
   payroll,
   todo,
