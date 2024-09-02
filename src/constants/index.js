@@ -191,7 +191,7 @@ import {
       title: "Wory-Freelancer ",
       company_name: "Mamo-Technolabs LLP",
       icon: tsx,
-      iconBg: "#ffffff",
+      iconBg: "#1B2330",
       date: "Jun 2024 - Jul 2024",
       points: [
         "Developed Wory a full-stack freelancing platform with a robust backend using Node.js, Express, and MongoDB, enabling efficient user management, project handling, and role-based access control.",
