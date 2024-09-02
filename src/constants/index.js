@@ -22,6 +22,7 @@ import {
     todoi,
     Ananta,
     Android,
+    Mad,
   } from "../assets";
   
   export const navLinks = [
@@ -45,7 +46,7 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "React Developer",
       icon: mobile,
     },
     {
@@ -53,8 +54,8 @@ import {
       icon: backend,
     },
     {
-      title: "Graphic Designer",
-      icon: figma,
+      title: "App Developer",
+      icon: Mad,
     },
   ];
   

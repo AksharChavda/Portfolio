@@ -31,9 +31,11 @@ import payroll from "./payroll.png";
 import Ananta from "./company/Ananta.png"
 import Android from "./company/Android.jpeg";
 import Android1 from "./company/Android.png";
+import Mad from "./MAD.png";
 
 export {
   Android1,
+  Mad,
   Android,
   Ananta,
   todoi,
