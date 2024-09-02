@@ -31,7 +31,7 @@ const About = () => {
     <motion.p
     variants={fadeIn("","",0.1,1)}
     className="mt-0 text-secondary text-[17px] max-w-3xl leading-[30px] "
-    >Innovative and enthusiastic computer science undergrad (Currently in Third
+    >Innovative and enthusiastic computer science undergrad (Currently in Final
       Year) with a passion for critical thinking/problem-solving and sharing a love
       for technology and science. Let's collaborate and create something remarkable together!
       </motion.p>
