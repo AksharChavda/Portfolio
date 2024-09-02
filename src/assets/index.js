@@ -32,8 +32,10 @@ import Ananta from "./company/Ananta.png"
 import Android from "./company/Android.jpeg";
 import Android1 from "./company/Android.png";
 import Mad from "./MAD.png";
+import tsx from "./R_TSX.jpeg";
 
 export {
+  tsx,
   Android1,
   Mad,
   Android,

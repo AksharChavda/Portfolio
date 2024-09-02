@@ -8,6 +8,7 @@ import {
     backend,
     web,
     javascript,
+    tsx,
     html,
     css,
     reactjs,
@@ -186,6 +187,19 @@ import {
         
       ],
     },
+    {
+      title: "Wory-Freelancer ",
+      company_name: "Mamo-Technolabs LLP",
+      icon: tsx,
+      iconBg: "#ffffff",
+      date: "Jun 2024 - Jul 2024",
+      points: [
+        "Developed Wory a full-stack freelancing platform with a robust backend using Node.js, Express, and MongoDB, enabling efficient user management, project handling, and role-based access control.",
+        "Built a responsive and intuitive frontend using React and TypeScript, featuring a user dashboard, project browsing, and advanced filtering options to enhance user experience.",
+        "Utilized Context API and Redux for state management to handle data flow efficiently across the application, ensuring a smooth and responsive user interface.",
+        "Designed and developed features for CRUD operations on projects, allowing clients to add, update, and manage projects seamlessly.",
+      ],
+    }
   ];
   
  
